@@ -1,12 +1,19 @@
 # UAV-haze-removal
-The proposed method is based on the dark channel prior
+This code is for haze removal in UAV images, the algorithm is based on dark channel prior and guided-filter.
 
-Required module:
+We change the approach to retrieve the global atmospheric light.
+
+The format of input hazy image is .jpg or .png or .jpeg and the intensity of pixel is 8 bit.
+
+
+Requirements:
+
+python:3.6x
 
 os
 
 time
 
-numpy:::pip install numpy
+opencv-python: pip install opencv-python
 
-cv2:::pip install opencv-python
+numpy: pip install numpy
