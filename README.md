@@ -24,6 +24,6 @@ HAZY
 ![HAZY](https://github.com/Liu-Feng/UAV-haze-removal/blob/master/hazy.png)
 
 
-DEHAZD
+DEHAZED
 
 ![DEGAZED](https://github.com/Liu-Feng/UAV-haze-removal/blob/master/dehazed.png)
