@@ -116,7 +116,7 @@ def dehaze_dir(file_dir, out_dir):
 
 
 if __name__ == '__main__':
-    file_dir = "/Users/liufeng/Desktop/hazy"
-    out_dir = "/Users/liufeng/Desktop/max"
+    file_dir = ""
+    out_dir = ""
     os.makedirs(out_dir, exist_ok=True)
     dehaze_dir(file_dir, out_dir)
