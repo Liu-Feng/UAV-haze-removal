@@ -17,7 +17,7 @@ time
 opencv-python: pip install opencv-python
 
 numpy: pip install numpy
-           HAZY
-![https://github.com/Liu-Feng/UAV-haze-removal/blob/master/hazy.png]
-          DEHAZED
-![https://github.com/Liu-Feng/UAV-haze-removal/blob/master/dehazed.png]
+
+![HAZY](https://github.com/Liu-Feng/UAV-haze-removal/blob/master/hazy.png)
+
+![DEGAZED](https://github.com/Liu-Feng/UAV-haze-removal/blob/master/dehazed.png)
