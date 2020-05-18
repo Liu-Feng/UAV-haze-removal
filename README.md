@@ -18,6 +18,12 @@ opencv-python: pip install opencv-python
 
 numpy: pip install numpy
 
+
+HAZY
+
 ![HAZY](https://github.com/Liu-Feng/UAV-haze-removal/blob/master/hazy.png)
+
+
+DEHAZD
 
 ![DEGAZED](https://github.com/Liu-Feng/UAV-haze-removal/blob/master/dehazed.png)
